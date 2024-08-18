@@ -1,1 +1,1 @@
-# Blogging-App
+This blogging app allows users to create, read, update, and delete blog posts. It typically includes features like user authentication, post management, comment sections, and categories/tags for organizing content.
